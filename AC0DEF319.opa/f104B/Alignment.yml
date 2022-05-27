@@ -1,0 +1,18 @@
+segment_sources:
+  I60C6605B:
+    type: origin_type
+    relation: translation
+    language: sa
+  ICA7CADD2:
+    type: origin_type
+    relation: translation
+    language: zh
+  IC8E38E37:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  f4fb0cccd6774ccd8d09c583c19ff83b:
+    I60C6605B: a2ed71027da54afd8b51963fac372f3c
+    ICA7CADD2: 00474ab9da464a3d8be270d3202549ab
+    IC8E38E37: 6e672c045f2446c4b141b2c7a34bcfc5
